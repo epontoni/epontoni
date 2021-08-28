@@ -5,9 +5,9 @@
 👨‍🏫 Professor of Mathematics @[IPEA 215](https://ipea215.edu.ar)
 
 ### 🔎 Looking for new challenges as
-👨‍💻 Full Stack Developer
-<br>`HTML` `CSS` `JavaScript` `React` `Full Stack` 
-                                                                                <!-- &theme=radical -->
+👨‍💻 Full Stack Developer<br>
+`HTML` `CSS` `JavaScript` `React` `Full Stack`<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epontoni&layout=compact)](https://github.com/epontoni/github-readme-stats)
 
 ### 📫 Get in touch
