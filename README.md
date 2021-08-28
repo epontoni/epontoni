@@ -7,8 +7,8 @@
 ### 🔎 Looking for new challenges as
 👨‍💻 Full Stack Developer
 <br>`HTML` `CSS` `JavaScript` `React` `Full Stack` 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epontoni&layout=compact&theme=radical)](https://github.com/epontoni/github-readme-stats)
+                                                                                <!-- &theme=radical -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epontoni&layout=compact)](https://github.com/epontoni/github-readme-stats)
 
 ### 📫 Get in touch
 - 📧 [pontoni.emanuel@gmail.com](mailto:pontoni.emanuel@gmail.com)
