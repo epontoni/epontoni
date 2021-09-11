@@ -12,7 +12,7 @@
 
 ### 📫 Get in touch
 - 📧 [pontoni.emanuel@gmail.com](mailto:pontoni.emanuel@gmail.com)
-- LinkedIn [@emanuelpontoni](https://www.linkedin.com/in/emanuelpontoni/)
+- LinkedIn [in/emanuelpontoni](https://www.linkedin.com/in/emanuelpontoni/)
 - Telegram [@epontoni](https://t.me/epontoni)
 
 <!--
