@@ -6,7 +6,7 @@
 
 ### 🔎 Looking for new challenges as
 👨‍💻 Front-end Javascript Developer<br>
-`HTML` `CSS` `JavaScript` `React` `Full Stack`<br>
+`HTML` `CSS` `JavaScript` `React`<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epontoni&layout=compact)](https://github.com/epontoni/github-readme-stats)
 
