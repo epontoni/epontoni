@@ -1,12 +1,12 @@
 ## <div align="center">Hi there 👋 <br> <font size="6">I am Emanuel</font></div>
-<div align="center">📍 Río Cuarto, Córdoba, Argentina.</div>
+<div align="center">📍 Bell Ville, Córdoba, Argentina.</div>
 
 ### 💼 I work as
-👨‍🏫 Professor of Mathematics @[IPEA 215](https://ipea215.edu.ar)
+👨‍🏫 Professor of Mathematics
 
 ### 🔎 Looking for new challenges as
 👨‍💻 Front-end Javascript Developer<br>
-`HTML` `CSS` `JavaScript` `React`<br>
+`HTML` `CSS` `JavaScript` `React` `NodeJS`<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epontoni&layout=compact)](https://github.com/epontoni/github-readme-stats)
 
